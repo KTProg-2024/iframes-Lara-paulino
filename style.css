@@ -25,6 +25,13 @@ h2{
   color: red;
   border-style: solid;
 }
-
-background-color: MistyRose;
-  color: DarkGreen;
+.fourth{
+  background-color: beige;
+  color: brown;
+  border-style: solid;
+}
+.fifth{
+  background-color: rgb(255, 233, 107);
+  color: rgb(87, 178, 226);
+  border-style: solid;
+}
